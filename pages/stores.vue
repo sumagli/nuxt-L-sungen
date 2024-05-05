@@ -1,5 +1,5 @@
 <script setup>
-import { useCounterStore } from "../stores/toDoStore";
+import { useCounterStore } from "../stores/counterStore";
 
 const counterStore = useCounterStore();
 
